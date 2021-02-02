@@ -27,14 +27,6 @@ Established in 1819, ESCP is considered as the world's oldest business school an
 ## Projects:
 See my projects:
 
-* **Como usar o Histograma para Data Science:** 
-* **Como Implementar Regressão Linear com Python:** 
-* **Data Science: Investigando o naufrágio do Titanic:** 
-* **Como Tratar Dados Ausentes com Pandas:** 
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** 
-* **Como criar uma Wordcloud em Python:** 
-* **Como lidar com dados desbalanceados:** 
-
 ---
 
 
