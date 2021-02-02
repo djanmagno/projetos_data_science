@@ -10,7 +10,7 @@ Data Science Projects Prtifolio.
 # Djan Magno
 <sub>*Project Manager</sub>
 
-As an experienced Mechanical Engineer in the Offshore Marine sector graduated by Brazilian Merchant Navy School, I combine analytical skills, ability to work in team environments, and attention to details. Currently, I am preparing myself to become an ambitious, proactive and quality-driven Data Scientist focused on results.
+As an experienced Mechanical Engineer in the Offshore Marine sector graduated by the Brazilian Merchant Navy School EFOMM, I combine analytical skills, ability to work in team environments, and attention to details. Currently, I am preparing myself to become an ambitious, proactive and quality-driven Data Scientist focused on results.
 
 My credentials include a MSc. Digital Project Management & Consultancy from the ESCP Business School (Madrid / Berlin). 
 
