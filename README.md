@@ -16,7 +16,7 @@ My credentials include a MSc. Digital Project Management & Consultancy from the 
 
 Established in 1819, ESCP is considered as the world's oldest business school and one of the most selective French Grandes écoles and referred to in France as one of the "trois Parisiennes" (three Parisians) is a European school of management having campuses in Paris, Berlin, London, Madrid, Turin, and Warsaw.
 
-**Background in:** Python, Javascript, SQL and Machine Learning .
+**Background in:** Python, Javascript, SQL.
 
 **Links:**
 * [Blog]()
@@ -26,6 +26,7 @@ Established in 1819, ESCP is considered as the world's oldest business school an
 
 ## Projects:
 See my projects:
+  * Analyzing Data from Airbnb Lisbon: https://bit.ly/3rlxEBp
 
 ---
 
