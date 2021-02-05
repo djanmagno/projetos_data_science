@@ -25,7 +25,7 @@ Established in 1819, ESCP is considered as the world's oldest business school an
 
 ## Projects:
 See my projects:
-  * Analyzing Data from Airbnb Lisbon: https://bit.ly/3rlxEBp
+  * Analyzing Data from Airbnb Lisbon: https://bit.ly/3avxvo0
 
 ---
 
