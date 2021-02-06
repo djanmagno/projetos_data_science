@@ -20,7 +20,7 @@ Established in 1819, ESCP is considered as the world's oldest business school an
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/djan-de-alcantara-magno-698a8a106/)
-* [Medium](https://www.medium.com)
+* [Medium](https://djan-de-alcantara-magno.medium.com/)
 
 
 ## Projects:
