@@ -25,7 +25,9 @@ Established in 1819, ESCP is considered as the world's oldest business school an
 
 ## Projects:
 See my projects:
-  * Analyzing Data from Airbnb Lisbon (Portuguese - Version): https://bit.ly/2Lwa3Pi
+  * Analyzing Data from Airbnb Lisbon (Portuguese - Version): [![Open In Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1ePd7Aqxzd-dZiJbeeOa9DSAkQRuK8A_q)  [![Github badge](https://img.shields.io/badge/Code-Github-<COLOR>.svg)](https://bit.ly/2Lwa3Pi)
+
+  * Analyzing Violence in Rio de Janeiro (Portuguese - Version): [![Open In Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://drive.google.com/file/d/1LjxlnyR_LdxGdr0aX2m-Oibu8_D9ZXA3/view?usp=sharing)  [![Github badge](https://img.shields.io/badge/Code-Github-<COLOR>.svg)](https://bit.ly/3aZxF7t)
 
 ---
 
