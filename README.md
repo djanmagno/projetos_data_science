@@ -29,6 +29,8 @@ See my projects:
 
   * Analyzing Violence in Rio de Janeiro (Portuguese - Version): [![Open In Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1LjxlnyR_LdxGdr0aX2m-Oibu8_D9ZXA3)  [![Github badge](https://img.shields.io/badge/Code-Github-<COLOR>.svg)](https://bit.ly/3aZxF7t)
 
+  * COVID-19 overview in Brazil and Worldwide (Portuguese - Version): [![Open In Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1l9pceomWwa6d6gYHbx7_C9Mc-Sx8hJgY#scrollTo=LCsiXvM3BcsO)  [![Github badge](https://img.shields.io/badge/Code-Github-<COLOR>.svg)](https://bit.ly/3uHYeHA)
+
 ---
 
 
